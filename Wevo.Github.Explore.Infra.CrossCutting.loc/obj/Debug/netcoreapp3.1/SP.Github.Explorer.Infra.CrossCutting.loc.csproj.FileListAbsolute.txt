@@ -1,0 +1,14 @@
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.deps.json
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explorer.Domain.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explorer.Github.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explorer.Domain.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explorer.Github.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.csprojAssemblyReference.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.AssemblyInfoInputs.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.AssemblyInfo.cs
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.csproj.CoreCompileInputs.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.csproj.CopyComplete
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explorer.Infra.CrossCutting.loc.pdb

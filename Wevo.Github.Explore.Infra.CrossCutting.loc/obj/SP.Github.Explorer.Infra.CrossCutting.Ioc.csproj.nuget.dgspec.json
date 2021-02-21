@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Infra.CrossCutting.loc\\SP.Github.Explorer.Infra.CrossCutting.Ioc.csproj": {}
+  },
+  "projects": {
+    "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Domain\\Wevo.Github.Explorer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Domain\\Wevo.Github.Explorer.Domain.csproj",
+        "projectName": "Wevo.Github.Explorer.Domain",
+        "projectPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Domain\\Wevo.Github.Explorer.Domain.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Github\\Wevo.Github.Explorer.Github.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Github\\Wevo.Github.Explorer.Github.csproj",
+        "projectName": "Wevo.Github.Explorer.Github",
+        "projectPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Github\\Wevo.Github.Explorer.Github.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Github\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Domain\\Wevo.Github.Explorer.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Domain\\Wevo.Github.Explorer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Infra.CrossCutting.loc\\SP.Github.Explorer.Infra.CrossCutting.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Infra.CrossCutting.loc\\SP.Github.Explorer.Infra.CrossCutting.Ioc.csproj",
+        "projectName": "SP.Github.Explorer.Infra.CrossCutting.Ioc",
+        "projectPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Infra.CrossCutting.loc\\SP.Github.Explorer.Infra.CrossCutting.Ioc.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Infra.CrossCutting.loc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Domain\\Wevo.Github.Explorer.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Domain\\Wevo.Github.Explorer.Domain.csproj"
+              },
+              "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Github\\Wevo.Github.Explorer.Github.csproj": {
+                "projectPath": "C:\\PROJETOS\\TestePraticoWevo\\GabrielDalpian\\SP.Github.Explore.Github\\Wevo.Github.Explorer.Github.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

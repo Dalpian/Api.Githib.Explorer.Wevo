@@ -1,0 +1,12 @@
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\bin\Debug\netcoreapp3.1\SP.Github.Explore.Domain.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\obj\Debug\netcoreapp3.1\SP.Github.Explore.Github.csprojAssemblyReference.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\obj\Debug\netcoreapp3.1\SP.Github.Explore.Github.AssemblyInfoInputs.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\obj\Debug\netcoreapp3.1\SP.Github.Explore.Github.AssemblyInfo.cs
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\bin\Debug\netcoreapp3.1\SP.Github.Explore.Github.deps.json
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\bin\Debug\netcoreapp3.1\SP.Github.Explore.Github.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\bin\Debug\netcoreapp3.1\SP.Github.Explore.Github.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\bin\Debug\netcoreapp3.1\SP.Github.Explore.Domain.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\obj\Debug\netcoreapp3.1\SP.Github.Explore.Github.csproj.CoreCompileInputs.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\obj\Debug\netcoreapp3.1\SP.Github.Explore.Github.csproj.CopyComplete
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\obj\Debug\netcoreapp3.1\SP.Github.Explore.Github.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Github\obj\Debug\netcoreapp3.1\SP.Github.Explore.Github.pdb

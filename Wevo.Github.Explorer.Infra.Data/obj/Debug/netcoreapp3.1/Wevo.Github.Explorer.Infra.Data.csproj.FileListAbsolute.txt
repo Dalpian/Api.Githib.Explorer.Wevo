@@ -1,0 +1,17 @@
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\obj\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.csprojAssemblyReference.cache
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\obj\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.AssemblyInfoInputs.cache
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\obj\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.AssemblyInfo.cs
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\obj\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.csproj.CoreCompileInputs.cache
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.deps.json
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.runtimeconfig.json
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.runtimeconfig.dev.json
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.dll
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.pdb
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Domain.dll
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Domain.pdb
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\obj\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.csproj.CopyComplete
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\obj\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.dll
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\obj\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.pdb
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\obj\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.Data.genruntimeconfig.cache
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.CrossCutting.dll
+C:\PROJETOS\TestePraticoWevo\GabrielDalpian\Wevo.Github.Explorer.Infra.Data\bin\Debug\netcoreapp3.1\Wevo.Github.Explorer.Infra.CrossCutting.pdb

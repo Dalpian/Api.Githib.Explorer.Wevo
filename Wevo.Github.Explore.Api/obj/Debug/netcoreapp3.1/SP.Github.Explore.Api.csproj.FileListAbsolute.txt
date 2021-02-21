@@ -1,0 +1,62 @@
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.deps.json
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.runtimeconfig.json
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\staticwebassets\SP.Github.Explore.Api.StaticWebAssets.Manifest.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\staticwebassets\SP.Github.Explore.Api.StaticWebAssets.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\SP.Github.Explore.Api.styles.css
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\SP\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.genruntimeconfig.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Domain.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Github.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.csprojAssemblyReference.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.AssemblyInfoInputs.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.AssemblyInfo.cs
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\staticwebassets\SP.Github.Explore.Api.StaticWebAssets.Manifest.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\staticwebassets\SP.Github.Explore.Api.StaticWebAssets.xml
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\SP.Github.Explore.Api.styles.css
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.RazorTargetAssemblyInfo.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.csproj.CoreCompileInputs.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Domain.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Github.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.exe
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.deps.json
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.runtimeconfig.json
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.runtimeconfig.dev.json
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Api.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.csproj.CopyComplete
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.genruntimeconfig.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\obj\Debug\netcoreapp3.1\SP.Github.Explore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

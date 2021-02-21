@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{8B465B04-AEEF-42BD-8BD2-F1562DBCABA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{D2D8045F-B3C0-4FF6-8A43-8A87B52D6780}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{D2634110-50B6-4951-AD6C-25A154EBAAE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1 - Data", "3.1 - Data", "{CAF0451F-0FE3-4A1B-AFA8-15CA855AA58B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2 - External", "3.2 - External", "{354D4364-0405-46C1-A566-A7752742438B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.3 - CrossCutting", "3.3 - CrossCutting", "{39867C6F-AEFA-40BF-A102-114E9ECA417A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wevo.Github.Explorer.Api", "Wevo.Github.Explore.Api\Wevo.Github.Explorer.Api.csproj", "{FE6AB315-A808-4D55-A3BF-F23A6AE75C6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wevo.Github.Explorer.Domain", "Wevo.Github.Explore.Domain\Wevo.Github.Explorer.Domain.csproj", "{5DA00265-AEA4-46C7-8BB7-5311E14A52B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wevo.Github.Explorer.Github", "Wevo.Github.Explore.Github\Wevo.Github.Explorer.Github.csproj", "{39C98622-8CE0-4E64-89D8-A426F902B613}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wevo.Github.Explorer.Infra.CrossCutting", "Wevo.Github.Explore.Infra.CrossCutting\Wevo.Github.Explorer.Infra.CrossCutting.csproj", "{B132D569-1599-433A-8009-A37C604B0529}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wevo.Github.Explorer.Infra.CrossCutting.Ioc", "Wevo.Github.Explore.Infra.CrossCutting.loc\Wevo.Github.Explorer.Infra.CrossCutting.Ioc.csproj", "{5B25A37D-F8A3-425F-8648-B2CFD5A5CE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wevo.Github.Explorer.Infra.Data", "Wevo.Github.Explorer.Infra.Data\Wevo.Github.Explorer.Infra.Data.csproj", "{7D5CD6F4-D928-45D5-AAE6-9437DC2E883E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6AB315-A808-4D55-A3BF-F23A6AE75C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6AB315-A808-4D55-A3BF-F23A6AE75C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6AB315-A808-4D55-A3BF-F23A6AE75C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6AB315-A808-4D55-A3BF-F23A6AE75C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA00265-AEA4-46C7-8BB7-5311E14A52B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA00265-AEA4-46C7-8BB7-5311E14A52B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA00265-AEA4-46C7-8BB7-5311E14A52B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA00265-AEA4-46C7-8BB7-5311E14A52B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C98622-8CE0-4E64-89D8-A426F902B613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C98622-8CE0-4E64-89D8-A426F902B613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C98622-8CE0-4E64-89D8-A426F902B613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C98622-8CE0-4E64-89D8-A426F902B613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B132D569-1599-433A-8009-A37C604B0529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B132D569-1599-433A-8009-A37C604B0529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B132D569-1599-433A-8009-A37C604B0529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B132D569-1599-433A-8009-A37C604B0529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B25A37D-F8A3-425F-8648-B2CFD5A5CE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B25A37D-F8A3-425F-8648-B2CFD5A5CE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B25A37D-F8A3-425F-8648-B2CFD5A5CE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B25A37D-F8A3-425F-8648-B2CFD5A5CE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5CD6F4-D928-45D5-AAE6-9437DC2E883E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5CD6F4-D928-45D5-AAE6-9437DC2E883E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5CD6F4-D928-45D5-AAE6-9437DC2E883E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5CD6F4-D928-45D5-AAE6-9437DC2E883E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CAF0451F-0FE3-4A1B-AFA8-15CA855AA58B} = {D2634110-50B6-4951-AD6C-25A154EBAAE7}
+		{354D4364-0405-46C1-A566-A7752742438B} = {D2634110-50B6-4951-AD6C-25A154EBAAE7}
+		{39867C6F-AEFA-40BF-A102-114E9ECA417A} = {D2634110-50B6-4951-AD6C-25A154EBAAE7}
+		{FE6AB315-A808-4D55-A3BF-F23A6AE75C6A} = {8B465B04-AEEF-42BD-8BD2-F1562DBCABA1}
+		{5DA00265-AEA4-46C7-8BB7-5311E14A52B7} = {D2D8045F-B3C0-4FF6-8A43-8A87B52D6780}
+		{39C98622-8CE0-4E64-89D8-A426F902B613} = {354D4364-0405-46C1-A566-A7752742438B}
+		{B132D569-1599-433A-8009-A37C604B0529} = {39867C6F-AEFA-40BF-A102-114E9ECA417A}
+		{5B25A37D-F8A3-425F-8648-B2CFD5A5CE60} = {39867C6F-AEFA-40BF-A102-114E9ECA417A}
+		{7D5CD6F4-D928-45D5-AAE6-9437DC2E883E} = {CAF0451F-0FE3-4A1B-AFA8-15CA855AA58B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC18128-9994-46FD-8C5F-A891DBFD83C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.csprojAssemblyReference.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.AssemblyInfoInputs.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.AssemblyInfo.cs
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.csproj.CoreCompileInputs.cache
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.deps.json
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explore.Domain.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explore.Github.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explore.Domain.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\bin\Debug\netcoreapp3.1\SP.Github.Explore.Github.pdb
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.csproj.CopyComplete
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.dll
+C:\PROJETOS\SP.Github.Explore\SP.Github.Explore.Infra.CrossCutting.loc\obj\Debug\netcoreapp3.1\SP.Github.Explore.Infra.CrossCutting.loc.pdb
